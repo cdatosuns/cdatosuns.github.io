@@ -1,0 +1,16 @@
+.resaltadoIntro{
+    color: #c51b1b;
+    font-weight: 800;
+}
+
+
+
+.testimonials .testimonial-item img {
+    max-width: 12rem;
+    -webkit-box-shadow: 0 5px 5px 0 #adb5bd;
+    box-shadow: 0 5px 5px 0 #adb5bd;
+}
+
+.navbar-brand{
+    padding-left: 20px;
+}
